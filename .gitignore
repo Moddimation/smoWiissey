@@ -1,0 +1,6 @@
+/[Bb]uild/
+/[Gg]ame/
+*.layout
+*.dol
+*.elf
+*.map
